@@ -3,7 +3,12 @@
 **/*.iml
 **/*.iws
 
-# Maven
+# Out
 **/log/
 **/target/
+
+# Maven
+**/mvnw
+**/mvnw.cmd
+**/.mvn
 
